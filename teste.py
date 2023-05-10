@@ -1,5 +1,6 @@
-# inicio do projeto
+# inicio do projetos
 
+print
 print("Hello world!")
 
 # breve versao 2.0
